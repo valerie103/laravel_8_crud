@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>App Name - @yield('title')</title>
+    <title>valerie - @yield('title')</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css"
         rel="stylesheet">
@@ -20,7 +20,7 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #9C27B0;
+            background-color: #847c75;
             color: white;
             text-align: center;
         }
